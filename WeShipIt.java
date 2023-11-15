@@ -1,17 +1,7 @@
-// Name: Mohamed Sankari
-// VUnetID: sankarmn
-// Email: mohamed.n.sankari@vanderbilt.edu
-// Class: CS 1101 - Vanderbilt University
-// Section: 03
-// Date: 9/28/2023
-// Honor statement: I attest that I understand the honor code for this class and have neither given
-//                  nor received any unauthorized aid on this assignment.
-
-// Program description: PA04A calculates shipping costs based on user inputted values.
 
 import java.util.Scanner;
 
-public class WeShipIt {
+public class ShippingCalculator {
 
     /**
      * Declares constants for the charged rates of the different types of shipping.
